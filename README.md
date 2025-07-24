@@ -1,0 +1,2 @@
+# LearnEmo
+Emotion recognition project
