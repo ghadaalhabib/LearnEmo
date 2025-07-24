@@ -1,0 +1,22 @@
+# Large files and archives
+*.zip
+*.tar.gz
+DAiSEE.zip
+DAiSEE_folder.tar.gz
+frames_folder.tar.gz
+MAE-DFER_folder.tar.gz
+frames
+DAiSEE
+t-rex
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large model files
+*.h5
+*.pkl
+*.pth
